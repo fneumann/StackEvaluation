@@ -1,5 +1,5 @@
-xample Evaluations for the ILIAS ExtendedTestStatistics Plugin
-===============================================================
+STACK Evaluation for the ILIAS ExtendedTestStatistics Plugin
+============================================================
 
 Copyright (c) 2017-2024 Institut fuer Lern-Innovation, Friedrich-Alexander-Universitaet Erlangen-Nuernberg, GPLv3, see LICENSE
 
